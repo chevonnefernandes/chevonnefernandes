@@ -1,4 +1,4 @@
-[![MasterHead](https://abakcus.com/15-beautiful-gifs-that-shows-the-beauty-of-mathematics/)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEflJoPKaoAVtd0zTfSZsRcUTAZYtFB_yyw&s)
 
 <h1 align="center">Hi 👋, I'm Chevonne Fernandes</h1>
 <h3 align="center">Data Detective: Solving Complex Problems with Analytics</h3>
