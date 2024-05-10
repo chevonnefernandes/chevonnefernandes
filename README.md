@@ -71,5 +71,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chevonnefernandes&theme=dark&hide_border=false" alt="GitHub Streak" height="120">
   </a>
 
-<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" width="700" height="145" />
+<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" width="680" height="140" />
 </p>
