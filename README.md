@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chevonne Fernandes</h1>
 <h3 align="center">Data Detective: Solving Complex Problems with Analytics</h3>
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/creative-coding-libcinder-100days-l2R0flMBPtMGU0wbm")
 
 - 🔭 I’m currently working on **Natural Language Processing with Hugging Face**
 
