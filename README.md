@@ -2,8 +2,34 @@
   <img src="https://profile-counter.glitch.me/chevonnefernandes/count.svg?"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Chevonne Fernandes</h1>
-<h3 align="center">Data Detective: Solving Complex Problems with Analytics</h3>
+<h1 align="left">Chevonne Fernandes</h1>
+<h3 align="left">I code whatever helps make my life easier.</h1>
+
+<br clear="both">
+<div align="right">
+<img align="right" height="130" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
+</div>
+
+🔭 I’m currently working on **Natural Language Processing with Hugging Face** <br>
+🌱 I’m currently learning **Deep learning frameworks (TensorFlow, PyTorch)** <br>
+📚 In my spare time I'm learning Spanish <br>
+🎸 I play the piano, violin and guitar <br>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/chevonnefernandes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/chevfernandes" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="Hackerrank"  />
+  </a>
+  <a href="https://medium.com/@chevonnefernandes" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"  />
+  </a>
+</div>
+
+---
+
+<h3 align="left">Languages and Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -17,15 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit_learn" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -41,34 +63,13 @@
   <img width="12" />
 </div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/chevonnefernandes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a><a href="https://www.hackerrank.com/profile/chevfernandes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a><a href="https://medium.com/@chevonnefernandes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
 <br clear="both">
+<p align="left">
+  <a href="https://github.com/chevonnefernandes">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chevonnefernandes&theme=dark&hide_border=false" alt="GitHub Streak" height="120">
+  </a>
 
-<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" />
-
-- 🔭 I’m currently working on **Natural Language Processing with Hugging Face**
-
-- 🌱 I’m currently learning **Deep learning frameworks (TensorFlow, PyTorch)**
-
-
-
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" width="700" height="145" />
+</p>
