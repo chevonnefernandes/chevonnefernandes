@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" />
 
 - 🔭 I’m currently working on **Natural Language Processing with Hugging Face**
 
