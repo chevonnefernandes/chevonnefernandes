@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chevonne Fernandes</h1>
 <h3 align="center">Data Detective: Solving Complex Problems with Analytics</h3>
-(img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/y3wBjXMffuFjy" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mic-processing-programming-y3wBjXMffuFjy">via GIPHY</a></p>")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/embed/y3wBjXMffuFjy")
 
 - 🔭 I’m currently working on **Natural Language Processing with Hugging Face**
 
