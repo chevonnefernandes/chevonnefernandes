@@ -16,7 +16,7 @@
 🎸 I play the piano, violin and guitar <br>
 📚 I'm currently reading The Picture of Dorian Gray <br>
 
----
+<hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
 <h3 align="left">Languages and Tools</h2>
 
