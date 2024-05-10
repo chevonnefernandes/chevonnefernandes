@@ -7,25 +7,14 @@
 
 <br clear="both">
 <div align="right">
-<img align="right" height="130" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
+<img align="right" height="120" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
 </div>
 
 🔭 I’m currently working on **Natural Language Processing with Hugging Face** <br>
 🌱 I’m currently learning **Deep learning frameworks (TensorFlow, PyTorch)** <br>
 📚 In my spare time I'm learning Spanish <br>
 🎸 I play the piano, violin and guitar <br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/chevonnefernandes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/chevfernandes" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="Hackerrank"  />
-  </a>
-  <a href="https://medium.com/@chevonnefernandes" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"  />
-  </a>
-</div>
+📚 I'm currently reading The Picture of Dorian Gray <br>
 
 ---
 
@@ -73,3 +62,15 @@
 
 <img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" width="500" height="115" />
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/chevonnefernandes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/chevfernandes" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="Hackerrank"  />
+  </a>
+  <a href="https://medium.com/@chevonnefernandes" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"  />
+  </a>
+</div>
