@@ -14,9 +14,6 @@
 🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
 🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
 🏆 Named one of Omnicom Media Group's '_Rising Stars_' <br>
-<br>
-
-
 
 <hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
