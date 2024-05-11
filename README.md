@@ -13,9 +13,9 @@
 🔗 Recent project: **Natural Language Processing with Hugging Face** <br>
 🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
 🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
-🏆 Named one of Omnicom Media Group's '_Rising Stars_' <br>
-<br>
+🏆 Named one of Omnicom Media Group's '*Rising Stars*' <br>
 
+<h1
 <hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
 <h3 align="left">Languages and Tools</h2>
