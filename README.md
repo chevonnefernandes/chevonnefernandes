@@ -6,9 +6,10 @@
 <h3 align="left">I code whatever helps make my life easier.</h1>
 
 <div align="right">
-<img align="right" height="120" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
+<img align="right" height="130" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
 </div>
 
+<br>
 🔗 Recent project: **Natural Language Processing with Hugging Face** <br>
 🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
 🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
@@ -53,11 +54,11 @@
 
 <hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
-<br clear="both">
-<p align="left">
+<!-- <br clear="both"> -->
+<!-- <p align="left"> -->
 
-<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" height=220 />
-</p>
+<!-- <img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" height=220 /> -->
+<!-- </p> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chevonnefernandes/" target="_blank">
