@@ -11,6 +11,7 @@
 
 <br>
 🔗 Recent project: **Natural Language Processing with Hugging Face** <br>
+🔗 Recent project: [Natural Language Processing with Hugging Face](https://github.com/chevonnefernandes/Sentiment-Analysis-with-NLP-and-Transformers) <br>
 🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
 🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
 🏆 Named one of Omnicom Media Group's '*Rising Stars*' <br>
