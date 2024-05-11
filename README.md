@@ -5,7 +5,6 @@
 <h1 align="left">Chevonne Fernandes</h1>
 <h3 align="left">I code whatever helps make my life easier.</h1>
 
-<br clear="both">
 <div align="right">
 <img align="right" height="120" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
 </div>
@@ -14,6 +13,7 @@
 🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
 🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
 🏆 Named one of Omnicom Media Group's '_Rising Stars_' <br>
+<br>
 
 <hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
