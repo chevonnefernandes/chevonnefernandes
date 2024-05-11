@@ -10,11 +10,13 @@
 <img align="right" height="120" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
 </div>
 
-🔭 I’m currently working on **Natural Language Processing with Hugging Face** <br>
-🌱 I’m currently learning **Deep learning frameworks (TensorFlow, PyTorch)** <br>
-📚 In my spare time I'm learning Spanish <br>
-🎸 I play the piano, violin and guitar <br>
-📚 I'm currently reading The Picture of Dorian Gray <br>
+🔗 Recent project: **Natural Language Processing with Hugging Face** <br>
+🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
+🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
+🏆 Named one of Omnicom Media Group's '_Rising Stars_' <br>
+<br>
+
+
 
 <hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
@@ -55,12 +57,9 @@
 <hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
 
 <br clear="both">
-<p align="center">
-<!--   <a href="https://github.com/chevonnefernandes"> -->
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chevonnefernandes&theme=dark&hide_border=false" alt="GitHub Streak" height="120"> -->
-<!--   </a> -->
+<p align="left">
 
-<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" height=220 />
 </p>
 
 <div align="center">
