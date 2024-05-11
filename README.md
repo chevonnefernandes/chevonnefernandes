@@ -6,7 +6,7 @@
 <h3 align="left">I code whatever helps make my life easier.</h1>
 
 <div align="right">
-<img align="right" height="130" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
+<img align="right" height="120" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
 </div>
 
 <br>
