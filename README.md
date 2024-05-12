@@ -14,6 +14,13 @@
 🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
 🏆 Named one of Omnicom Media Group's '*Rising Stars*' <br>
 
+🔗 Recent project: <a href="https://github.com/chevonnefernandes/Sentiment-Analysis-with-NLP-and-Transformers" target="_blank">Natural Language Processing with Hugging Face</a> <br>
+🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
+🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
+🏆 Named one of Omnicom Media Group's '*Rising Stars*' <br>
+
+
+
 <h1></h1>
 
 <h3>Languages and Tools</h3>
