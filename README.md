@@ -2,26 +2,25 @@
   <img src="https://profile-counter.glitch.me/chevonnefernandes/count.svg?"  />
 </div>
 
-<h1 align="left">Chevonne Fernandes</h1>
-<h3 align="left">I code whatever helps make my life easier.</h1>
+<h1>Chevonne Fernandes</h1>
+<h3>I code whatever helps make my life easier.</h3>
 
-<div align="right">
+<div>
 <img align="right" height="120" src="https://wp.technologyreview.com/wp-content/uploads/2020/10/MIT_MagicalThinking_Sketch2.gif"  />
 </div>
 
 <br>
-🔗 Recent project: **Natural Language Processing with Hugging Face** <br>
+
 🔗 Recent project: [Natural Language Processing with Hugging Face](https://github.com/chevonnefernandes/Sentiment-Analysis-with-NLP-and-Transformers) <br>
 🔎 Exploring: **Deep learning frameworks (TensorFlow, PyTorch)** <br>
 🏆 Winner of the UK-wide Award for Innovation, sponsored by Deutsche Bank <br>
 🏆 Named one of Omnicom Media Group's '*Rising Stars*' <br>
 
-<h1
-<hr style="border: 0; border-top: 1px solid #eaecef; margin: 0;">
+<h1></h1>
 
-<h3 align="left">Languages and Tools</h2>
+<h3>Languages and Tools</h3>
 
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
@@ -45,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
