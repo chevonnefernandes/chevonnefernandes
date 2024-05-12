@@ -60,13 +60,13 @@
 <!-- </p> -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chevonnefernandes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"  />
+  <a href="https://www.linkedin.com/in/chevonnefernandes/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/profile/chevfernandes" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="Hackerrank"  />
+  <a href="https://www.hackerrank.com/profile/chevfernandes" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="Hackerrank" />
   </a>
-  <a href="https://medium.com/@chevonnefernandes" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"  />
+  <a href="https://medium.com/@chevonnefernandes">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
