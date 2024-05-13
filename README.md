@@ -53,11 +53,11 @@
 
 ---
 
-<!-- <br clear="both"> -->
-<!-- <p align="left"> -->
+<br clear="both">
+<p align="left">
 
-<!-- <img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" height=220 /> -->
-<!-- </p> -->
+<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" height=220 />
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chevonnefernandes/">
