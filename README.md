@@ -53,12 +53,6 @@
 
 ---
 
-<br clear="both">
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/chevonnefernandes/chevonnefernandes/output/snake.svg" alt="Snake animation" height=220 />
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/chevonnefernandes/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
